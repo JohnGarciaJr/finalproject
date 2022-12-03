@@ -55,7 +55,7 @@ nav {
 	background: #F6D64A;
 }
   
-#nav { display: flex; }
+nav { display: flex; }
   #navlist a {
 	flex-grow: 1;
 	flex-basis: 0;
@@ -67,7 +67,7 @@ nav {
 
 #navlist a:hover { background: #af0d0d; }
 
-#nav { display: none; }
+nav { display: none; }
  header{
     background: linear-gradient( var(--teal), var(--white));
     color: #000000;
